@@ -32,7 +32,7 @@ To segment brain tumors from MRI scans using deep learning techniques, specifica
 - Visualization of segmentation outputs
 
 ## 📈 Sample Output
-> Include some "before and after" MRI + mask predictions from your notebook.
+> "before and after" MRI + mask predictions from THE notebook.
 
 ## 🚀 Getting Started
 
